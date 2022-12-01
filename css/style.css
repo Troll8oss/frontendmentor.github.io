@@ -244,4 +244,7 @@ main h1 {
       "b b b"
       "c c c";
   }
+  .logo{
+    display:none;
+  }
 }
